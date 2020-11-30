@@ -1,0 +1,261 @@
+#title {
+  background-color: black;
+  font-family: "Montserrat";
+}
+
+
+
+/* Navbar section */
+
+.container-fluid {
+  font-family: "Ubuntu";
+  padding: 0 10% 0;
+  background-color: black;
+}
+
+.coders-logo {
+  font-size: 50px;
+  margin-right: 10px;
+  color: #3DCFD3;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.navbar-items {
+  font-size: 1rem;
+}
+
+
+/* introduction */
+
+.profile-img {
+  width: 60%;
+
+}
+
+.introduction {
+  padding: 3% 15%;
+  line-height: 2;
+}
+.intro-col {
+  padding: 4% 0;
+}
+.name {
+  padding-top: 3%;
+  font-size: 2rem;
+  color: #3DCFD3;
+}
+.intro {
+  font-size: 3.5rem;
+  color: #fff;
+}
+.intro-design {
+  color: #3DCFD3;
+  font-size: 3.5rem
+}
+.intro-para {
+  color: #FFF;
+  padding: 3% 0;
+}
+
+
+/* About Section */
+
+.about-section {
+  padding: 7% 18%;
+}
+.man2-img {
+  width: 90%;
+}
+
+.about-intro {
+  padding: 2% 0;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.about-name {
+  padding: 3% 0;
+}
+.logos {
+  padding-top: 40px;
+  font-size: 30px;
+}
+
+.logo2 {
+  color: #3DCFD3;
+}
+
+/* services section */
+#services {
+  padding: 3%;
+  background-color: #e8e8e8;
+  font-family: "Montserrat"
+}
+.services-intro {
+  text-align: center;
+}
+
+.our-services {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.services-grid {
+  text-align: center;
+  padding: 2% 10%;
+}
+.card-body {
+  background-color: #393e46;
+  padding: 5% 10%;
+}
+.col-grid {
+  padding: 2% 2% 3%;
+}
+.card-title {
+  font-weight: bold;
+  color: white;
+}
+.card-text {
+  font-weight: 300;
+  color: grey;
+}
+.icons {
+  font-size: 40px;
+  padding: 3%;
+  color: #3DCFD3;
+}
+
+/* pages section */
+
+.pages-intro {
+  padding: 7% 0;
+  position: relative;
+  text-align: center;
+  color: #fff;
+  font-weight: bold;
+  z-index: 1;
+}
+.pages-height {
+  font-family: "Ubuntu";
+  font-size: 3rem;
+}
+.pages-text {
+  font-size: 1.5rem;
+  padding-bottom: 2%;
+}
+
+.camera-img {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  height: 60%;
+  filter: blur(6px);
+  -webkit-filter: blur(6px);
+}
+.client-intro {
+  text-align: center;
+}
+.our-client {
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.client-part {
+  background-color: #e8e8e8;
+  padding: 3% 15%;
+  text-align: center;
+  color: Black;
+}
+.cara-img {
+  width: 15%;
+  padding-bottom: 2%;
+}
+
+.carousel-inner {
+  padding: 2% 2% 0;
+}
+.carousel-item {
+  padding: 2% 2% 15%;
+}
+.carousel-caption {
+  color: black;
+  padding: 0 2%;
+}
+
+/* Work section*/
+#work {
+  text-align: center;
+  background-color: white;
+  padding: 3% 15%;
+}
+
+.our-work {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.work-section {
+  padding: 3% 0;
+}
+.phone-img {
+  width: 100%;
+  padding-top: 5%;
+}
+
+/* Blog section */
+#blog {
+  text-align: center;
+  background-color: #393e46;
+  padding: 3% 15%;
+  color: #fff;
+}
+
+.our-blog {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.blog-grid {
+  padding: 3% 0;
+}
+.blog-card-body {
+  background-color: white;
+  color: black;
+  height: 250px;
+  padding: 2%;
+}
+
+.card-col {
+  padding: 2% 3%;
+}
+
+
+/* contact */
+#contact {
+  text-align: center;;
+  padding: 3% 15%;
+  background-color: #e8e8e8;
+}
+.contact-us {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.social {
+  font-size: 40px;
+  padding: 3% 7% 2%;
+}
+
+.logo1:hover {
+  color: #3DCFD3;
+}
+.logo2:hover {
+  color: black;
+}
+.logo3:hover {
+  color: #3DCFD3;
+}
+.logo4:hover {
+  color: #3DCFD3;
+}
